@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=rahul05ranjan&theme=react-dark&hide_border=true&area=true)
 
+![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/main/github-contribution-snake.svg)
+
 #### Github trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=rahul05ranjan&theme=juicyfresh&no-bg=true" />
