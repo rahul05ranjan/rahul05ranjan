@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/main/github-contribution-snake.svg)
 
+![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/output/github-contribution-snake.svg)
+
 #### Github trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=rahul05ranjan&theme=juicyfresh&no-bg=true" />
