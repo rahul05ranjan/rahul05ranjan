@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 ### Profile visits
 
 <img src="https://komarev.com/ghpvc/?username=rahul05ranjan&color=brightgreen" alt="watching_count" />
+
+### Dev Daily
+
+<a href="https://app.daily.dev/rahulkumar23"><img src="https://api.daily.dev/devcards/v2/U27QLhICCvm4in2e75Blh.png?type=default&r=mmu" width="356" alt="Rahul Kumar's Dev Card"/></a>
