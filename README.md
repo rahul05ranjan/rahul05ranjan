@@ -26,7 +26,7 @@
 - 📫 **How to reach me:** DM me on social media
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Aspiring vlogger and YouTuber who dreams of settling in the mountains
-- 🌐 **Side Project:** [Gofugly](https://gofugly.in) - A jokes and quotes sharing platform
+- 🌐 **Side Project:** [Accesstools](https://accesstools.online) - A jokes and quotes sharing platform
 
 <br clear="right"/>
 
