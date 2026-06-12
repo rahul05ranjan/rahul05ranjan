@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20👋%20I'm%20Rahul%20Kumar;Full%20Stack%20Developer;LAMP%20%26%20MERN%20Enthusiast;Open%20Source%20Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -113,11 +110,7 @@
   <img src="https://github.com/rahul05ranjan/rahul05ranjan/blob/output/github-contribution-snake.svg" alt="Snake Animation"/>
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul05ranjan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
 
 ## 📱 Additional Widgets
 
@@ -141,22 +134,8 @@ Docker       35 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/rahul05ranjan/gofugly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul05ranjan&repo=gofugly&theme=radical&hide_border=true" alt="Gofugly"/>
-  </a>
-  <a href="https://github.com/rahul05ranjan/qrcreator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul05ranjan&repo=qrcreator&theme=radical&hide_border=true" alt="QR Creator"/>
-  </a>
-</div>
 
-### 🎵 Currently Playing on Spotify
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rahul05ranjan&unique=true&count=1&width=400" alt="Spotify Recently Played"/>
-</div>
 
 ### 💝 Support My Work
 
@@ -171,11 +150,7 @@ Docker       35 mins         █░░░░░░░░░░░░░░░░
 
 ### 📈 Dev Daily
 
-<div align="center">
-  <a href="https://app.daily.dev/rahulkumar23">
-    <img src="https://api.daily.dev/devcards/v2/U27QLhICCvm4in2e75Blh.png?type=default&r=mmu" width="356" alt="Rahul Kumar's Dev Card"/>
-  </a>
-</div>
+
 
 </div>
 
@@ -192,6 +167,6 @@ Docker       35 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <h3>💫 Made with ❤️ by Rahul Kumar</h3>
+  <h3>💫 Made with ❤️ by Rahul</h3>
   <p>⭐ Star my repositories if you find them useful!</p>
 </div>
