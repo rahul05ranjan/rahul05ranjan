@@ -1,53 +1,78 @@
-# Rahul Kumar
+<div align="center">
 
-### Full-Stack & AI Developer
+<h1>Rahul Kumar</h1>
+<h3>Full-Stack & Applied AI Developer</h3>
+<p>I help founders and product teams turn ideas into polished web products, dependable APIs, and practical AI tools.</p>
+<p><a href="mailto:rahul05ranjan@gmail.com"><strong>Discuss a project →</strong></a></p>
+<p><sub>Chandigarh, India · Web products · Backend systems · Local AI</sub></p>
 
-I build practical web applications, backend APIs, and local-first AI tools. My work spans TypeScript, JavaScript, Python, PHP, React, Next.js, Node.js, and Ollama.
+</div>
 
-Have a project in mind? [Email me](mailto:rahul05ranjan@gmail.com).
+---
 
-## What I Can Help With
+## What I Build
 
-- Building responsive full-stack web applications
-- Designing backend services and REST APIs
-- Integrating AI features and local language models into products
-- Creating developer tools and workflow automation
-- Improving existing JavaScript, TypeScript, and PHP applications
+| Capability | Typical work |
+| --- | --- |
+| **Web products** | Responsive applications designed around real user journeys, from focused MVPs to feature-rich product experiences. |
+| **Backend systems** | APIs, integrations, and data-backed services structured for clarity and maintainability. |
+| **Applied AI** | Local language-model integrations, computer-vision experiments, and AI-assisted product workflows. |
+| **Developer tooling** | Command-line tools and automation that remove repetitive work from development teams. |
 
-## Selected Projects
+## Selected Work
 
-### [Dhruv CLI](https://github.com/rahul05ranjan/dhruv-cli)
+### 01 — [Dhruv CLI](https://github.com/rahul05ranjan/dhruv-cli)
 
-An offline-first, AI-powered command-line assistant for developers. It uses local Ollama models to suggest and explain commands, review code, run security checks, generate tests, and support custom plugins.
+An offline-first AI assistant that brings common development tasks into the terminal. Dhruv can suggest and explain commands, review code, perform security checks, generate tests, and load custom plugins while keeping inference local through Ollama.
 
-- **Built with:** TypeScript, Node.js, Ollama
-- **Links:** [Source code](https://github.com/rahul05ranjan/dhruv-cli) · [Documentation](https://rahul05ranjan.github.io/dhruv-cli/) · [npm package](https://www.npmjs.com/package/@rahul05ranjan/dhruv-cli)
+- **Contribution:** CLI experience, local-model integration, extensible plugin system, documentation, and package publishing
+- **Technology:** TypeScript, Node.js, Ollama
+- **Explore:** [Source](https://github.com/rahul05ranjan/dhruv-cli) · [Documentation](https://rahul05ranjan.github.io/dhruv-cli/) · [npm](https://www.npmjs.com/package/@rahul05ranjan/dhruv-cli)
 
-### [Modern News Application](https://github.com/rahul05ranjan/new_news_nextjs)
+### 02 — [Modern News Application](https://github.com/rahul05ranjan/new_news_nextjs)
 
-A responsive news-browsing application with dark and light themes, infinite scrolling, intelligent data caching, loading states, and structured error handling.
+A modern news-reading experience built around fast discovery and comfortable browsing. It combines responsive layouts, theme support, infinite scrolling, intelligent data caching, deliberate loading states, and structured error handling.
 
-- **Built with:** Next.js, React, TypeScript, React Query
-- **Link:** [Source code](https://github.com/rahul05ranjan/new_news_nextjs)
+- **Contribution:** Application architecture, responsive interface, data-fetching flow, caching, and user-experience states
+- **Technology:** Next.js, React, TypeScript, React Query
+- **Explore:** [Source](https://github.com/rahul05ranjan/new_news_nextjs)
 
-### [Gemma 4 Live Vision](https://github.com/rahul05ranjan/object-detect-using-gemma4)
+### 03 — [Gemma 4 Live Vision](https://github.com/rahul05ranjan/object-detect-using-gemma4)
 
-A local computer-vision application that captures webcam frames, sends them to a multimodal model through Ollama, and draws labeled object and gesture detections over the live video.
+A local computer-vision application that captures webcam frames, sends them to a multimodal model through Ollama, and overlays labeled object and gesture detections on the live video.
 
-- **Built with:** Python, OpenCV, Ollama, Gemma
-- **Link:** [Source code](https://github.com/rahul05ranjan/object-detect-using-gemma4)
+- **Contribution:** Camera pipeline, local-model integration, threaded inference, and visual detection overlays
+- **Technology:** Python, OpenCV, Ollama, Gemma
+- **Explore:** [Source](https://github.com/rahul05ranjan/object-detect-using-gemma4)
 
-## Core Technologies
+## Where I Add Value
 
-- **Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, PHP, Laravel, REST APIs
+- Turning an early product idea into a focused, usable MVP
+- Building new features for existing JavaScript, TypeScript, or PHP applications
+- Designing APIs and integrations that connect product workflows
+- Prototyping practical AI features without making the product dependent on cloud inference
+- Creating internal tools and automation for repetitive development work
+
+## Core Toolkit
+
+- **Product interfaces:** TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
+- **Backend and APIs:** Node.js, Express, PHP, Laravel, REST APIs
 - **AI and automation:** Python, Ollama, local LLM integrations, OpenCV
-- **Data and tools:** MySQL, MongoDB, Docker, Git, GitHub, Postman
+- **Data and delivery:** MySQL, MongoDB, Docker, Git, GitHub, Postman
 
-## A Little About Me
+## How I Work
 
-I am based in Chandigarh, India, and enjoy turning ideas into useful products—especially projects that combine polished web experiences with practical AI. Outside development, I am interested in content creation, vlogging, and life in the mountains.
+1. **Clarify the outcome** — establish the user, the problem, and what success should look like.
+2. **Build the smallest valuable slice** — create something useful early, then improve it with evidence.
+3. **Keep the work visible** — communicate decisions, trade-offs, and progress clearly.
+4. **Leave a maintainable handoff** — favor understandable code, focused documentation, and practical next steps.
 
-## Let's Work Together
+## Beyond the Code
 
-If you need help with a web application, backend API, developer tool, or AI prototype, [send me an email](mailto:rahul05ranjan@gmail.com).
+I am based in Chandigarh, India. I enjoy turning rough ideas into useful products, particularly where polished web experiences meet practical AI. Away from development, I am interested in content creation, vlogging, and life in the mountains.
+
+## Start a Conversation
+
+Building a web product, backend integration, developer tool, or AI prototype? Tell me what you are working on and where you need help.
+
+[**rahul05ranjan@gmail.com**](mailto:rahul05ranjan@gmail.com)
