@@ -75,4 +75,4 @@ I am based in Chandigarh, India. I enjoy turning rough ideas into useful product
 
 Building a web product, backend integration, developer tool, or AI prototype? Tell me what you are working on and where you need help.
 
-[**rahul05ranjan@gmail.com**](mailto:rahul05ranjan@gmail.com)
+[**Email**](mailto:rahul05ranjan@gmail.com)
