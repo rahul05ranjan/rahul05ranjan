@@ -1,78 +1,202 @@
 <div align="center">
 
-<h1>Rahul Kumar</h1>
-<h3>Full-Stack & Applied AI Developer</h3>
-<p>I help founders and product teams turn ideas into polished web products, dependable APIs, and practical AI tools.</p>
-<p><a href="mailto:rahul05ranjan@gmail.com"><strong>Discuss a project →</strong></a></p>
-<p><sub>Chandigarh, India · Web products · Backend systems · Local AI</sub></p>
+# Rahul Kumar
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Applied+AI+Systems+%26+Full-Stack+Engineer;Creator+of+Hydra+Nano+%26+VIC-2B+Models;Local-First+Inference+%7C+Agentic+Orchestration;7%2B+Open-Weights+Models+on+Hugging+Face&font=Fira+Code&size=20&center=true&width=620&height=45&color=38BDF8&vCenter=true" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Architecting small local AI models, deterministic agent systems, and resilient production web applications.</b><br>
+  Based in Chandigarh, India · Open-weights creator on Hugging Face · Building developer tools that respect context and privacy.
+</p>
+
+<!-- Quick Contact & Social Hub -->
+<p align="center">
+  <a href="mailto:rahul05ranjan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct_Inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahulswt7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/?text=Hi%20Rahul,%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://web.arattai.in/">
+    <img src="https://img.shields.io/badge/Arattai-Direct_Chat-2A62D7?style=for-the-badge&logo=rocketchat&logoColor=white" alt="Arattai" />
+  </a>
+  <a href="https://huggingface.co/rahul05ranjan">
+    <img src="https://img.shields.io/badge/Hugging_Face-3k+_Downloads-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://x.com/rahul05ranjan">
+    <img src="https://img.shields.io/badge/Twitter/X-@rahul05ranjan-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## What I Build
+## ⚡ Executive Summary
 
-| Capability | Typical work |
-| --- | --- |
-| **Web products** | Responsive applications designed around real user journeys, from focused MVPs to feature-rich product experiences. |
-| **Backend systems** | APIs, integrations, and data-backed services structured for clarity and maintainability. |
-| **Applied AI** | Local language-model integrations, computer-vision experiments, and AI-assisted product workflows. |
-| **Developer tooling** | Command-line tools and automation that remove repetitive work from development teams. |
+I specialize in **Applied AI Engineering** and **Full-Stack Systems**. My recent focus is solving the context window crisis for AI coding agents and building deterministic AI engines powered by compact, open-weights language models that run 100% locally on user hardware.
 
-## Selected Work
+- 🧠 **Model Creator:** Published **7 specialized open-weights models** on Hugging Face (Hydra Nano family & VIC-2B) with **3,000+ downloads**.
+- 🛠️ **Agent Context Optimization:** Creator of **Hydra**, shaving **76% of noise tokens** out of coding agent context windows using local GGUF models.
+- 📊 **Deterministic Query Planning:** Developed **VIC-2B** and the **vasuki** engine, achieving **83.0% accuracy on Spider** and matching 120B parameter models at 1.55 GB footprint.
+- 💻 **Production Full-Stack:** Scalable, reliable architectures across TypeScript, React, Next.js, Node.js, Python, PHP, and Docker.
 
-### 01 — [Dhruv CLI](https://github.com/rahul05ranjan/dhruv-cli)
+---
 
-An offline-first AI assistant that brings common development tasks into the terminal. Dhruv can suggest and explain commands, review code, perform security checks, generate tests, and load custom plugins while keeping inference local through Ollama.
+## 🚀 Featured Flagship Projects
 
-- **Contribution:** CLI experience, local-model integration, extensible plugin system, documentation, and package publishing
-- **Technology:** TypeScript, Node.js, Ollama
-- **Explore:** [Source](https://github.com/rahul05ranjan/dhruv-cli) · [Documentation](https://rahul05ranjan.github.io/dhruv-cli/) · [npm](https://www.npmjs.com/package/@rahul05ranjan/dhruv-cli)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐉 <a href="https://github.com/rahul05ranjan/hydra">Hydra</a></h3>
+      <p align="center">
+        <b>Small Local Models That Take the Noisy Work Off Coding Agents</b><br>
+        <a href="https://www.npmjs.com/package/hydra-nano"><img src="https://img.shields.io/npm/v/hydra-nano?color=7c5cff&label=npm" alt="npm"></a>
+        <a href="https://huggingface.co/rahul05ranjan/hydra-nano-git"><img src="https://img.shields.io/badge/HF-Hydra%20Nano%20v2-22d3ee?logo=huggingface&logoColor=black" alt="HF Model"></a>
+        <img src="https://img.shields.io/badge/100%25-Local_Inference-5eead4" alt="Local">
+      </p>
+      <ul>
+        <li><b>Context Savior:</b> Intercepts verbose tool outputs (test suites, build logs, git diffs, process lists) using fine-tuned 0.8B/0.9B local models running on <code>llama.cpp</code>.</li>
+        <li><b>Proven Efficiency:</b> Filters out <b>76% of token waste</b> (e.g. compressing a ~13,800 token test run into 57 critical failure tokens).</li>
+        <li><b>Harness Integrations:</b> Seamlessly hooks into <b>Claude Code, Cursor, Codex, OpenCode, Gemini CLI</b>, and MCP-compatible clients.</li>
+        <li><b>Zero Data Leaks:</b> 100% local, read-only telemetry in local ledger, zero cloud dependency.</li>
+      </ul>
+      <p align="center">
+        <code>npx hydra-nano</code> · <a href="https://github.com/rahul05ranjan/hydra"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/rahul05ranjan/vasuki-vic">Vasuki & VIC-2B</a></h3>
+      <p align="center">
+        <b>Deterministic Tabular Query Engine & 1.55 GB Planner Model</b><br>
+        <a href="https://huggingface.co/rahul05ranjan/VIC-2B"><img src="https://img.shields.io/badge/HF-VIC--2B-ffcc4d?logo=huggingface&logoColor=black" alt="VIC-2B"></a>
+        <a href="https://ollama.com/rahuul/vic-2b"><img src="https://img.shields.io/badge/Ollama-rahuul%2Fvic--2b-000000?logo=ollama&logoColor=white" alt="Ollama"></a>
+        <img src="https://img.shields.io/badge/License-Apache_2.0-blue" alt="License">
+      </p>
+      <ul>
+        <li><b>Auditable Planning:</b> Translates plain English and Hinglish queries into typed, 12-operation JSON execution plans without hallucinated code or unsafe <code>eval</code>.</li>
+        <li><b>Frontier-Level Benchmarks:</b> Fine-tuned on Qwen3.5-2B, achieving <b>83.0% on Spider</b> and <b>66.7% on BIRD</b>, matching a 120B model at a fraction of compute.</li>
+        <li><b>Multi-Format Runner:</b> Operates on <code>.csv</code>, <code>.tsv</code>, <code>.json</code>, and <code>.jsonl</code> with zero third-party dependencies outside Python stdlib.</li>
+        <li><b>MCP & Agent Skill:</b> Native CLI, Python API, Ollama support, and MCP server for agentic integration.</li>
+      </ul>
+      <p align="center">
+        <code>uvx --from git+https://github.com/rahul05ranjan/vasuki-vic vasuki ask</code> · <a href="https://github.com/rahul05ranjan/vasuki-vic"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤗 <a href="https://huggingface.co/rahul05ranjan">Open-Weights Models Ecosystem</a></h3>
+      <p align="center">
+        <b>Specialized Compact Models Fine-Tuned for Autonomous Workflows</b><br>
+        <a href="https://huggingface.co/rahul05ranjan"><img src="https://img.shields.io/badge/HuggingFace-7_Models_Published-FFD21E?logo=huggingface&logoColor=black" alt="HF"></a>
+      </p>
+      <ul>
+        <li><a href="https://huggingface.co/rahul05ranjan/hydra-nano-git"><b>hydra-nano-git</b></a> (0.8B Q8_0 GGUF): Specializes in git diffs, commit history, and blame extraction (1.4k+ downloads).</li>
+        <li><a href="https://huggingface.co/rahul05ranjan/hydra-nano-test"><b>hydra-nano-test</b></a> (0.9B): Test runner log digesting across 8 frameworks with 97.5% task solve rate.</li>
+        <li><a href="https://huggingface.co/rahul05ranjan/hydra-nano-os"><b>hydra-nano-os</b></a>, <b>read</b> & <b>files</b>: System inspection, symbol extraction, and AST-aware file localization.</li>
+        <li><a href="https://huggingface.co/rahul05ranjan/VIC-2B"><b>VIC-2B</b></a> & <a href="https://huggingface.co/rahul05ranjan/VIC-2B-GGUF"><b>VIC-2B-GGUF</b></a>: Deterministic data planner with Ollama ready-to-run package.</li>
+      </ul>
+      <p align="center">
+        <a href="https://huggingface.co/rahul05ranjan"><b>View Models on Hugging Face →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ <a href="https://github.com/rahul05ranjan/dhruv-cli">Dhruv CLI</a></h3>
+      <p align="center">
+        <b>Local-First AI Command Center for Terminal Developers</b><br>
+        <a href="https://www.npmjs.com/package/@rahul05ranjan/dhruv-cli"><img src="https://img.shields.io/npm/v/@rahul05ranjan/dhruv-cli?color=cb3837&label=npm" alt="npm"></a>
+        <a href="https://rahul05ranjan.github.io/dhruv-cli/"><img src="https://img.shields.io/badge/Docs-Live-00bcd4" alt="Documentation"></a>
+      </p>
+      <ul>
+        <li><b>Offline AI Terminal:</b> Powers terminal workflows with local LLMs via Ollama, keeping sensitive proprietary code off external servers.</li>
+        <li><b>Intelligent Tooling:</b> Automated security scans, code reviews, unit test generation, and natural-language command translation.</li>
+        <li><b>Modular Architecture:</b> Built with TypeScript and Node.js featuring an extensible third-party plugin ecosystem.</li>
+      </ul>
+      <p align="center">
+        <code>npm install -g @rahul05ranjan/dhruv-cli</code> · <a href="https://github.com/rahul05ranjan/dhruv-cli"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 02 — [Modern News Application](https://github.com/rahul05ranjan/new_news_nextjs)
+---
 
-A modern news-reading experience built around fast discovery and comfortable browsing. It combines responsive layouts, theme support, infinite scrolling, intelligent data caching, deliberate loading states, and structured error handling.
+## 🛠️ Technical Capabilities & Stack
 
-- **Contribution:** Application architecture, responsive interface, data-fetching flow, caching, and user-experience states
-- **Technology:** Next.js, React, TypeScript, React Query
-- **Explore:** [Source](https://github.com/rahul05ranjan/new_news_nextjs)
+<div align="center">
 
-### 03 — [Gemma 4 Live Vision](https://github.com/rahul05ranjan/object-detect-using-gemma4)
+| Domain | Core Competencies & Tools |
+| :--- | :--- |
+| **Applied AI & Local LLMs** | Fine-tuning compact SLMs (0.8B–2B), Qwen3.5, Llama, Ollama, llama.cpp, MLX, GGUF quantization, OpenCV |
+| **Agentic Frameworks & Context** | Model Context Protocol (MCP), tool output sandboxing, context token compression, deterministic planning |
+| **Frontend & Interfaces** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Responsive UI/UX |
+| **Backend & APIs** | Node.js, Express, Python, PHP, Laravel, RESTful APIs, WebSockets, CLI development |
+| **Databases & DevOps** | MySQL, MongoDB, Docker, Git/GitHub Actions, Linux/macOS runtime environments |
 
-A local computer-vision application that captures webcam frames, sends them to a multimodal model through Ollama, and overlays labeled object and gesture detections on the live video.
+</div>
 
-- **Contribution:** Camera pipeline, local-model integration, threaded inference, and visual detection overlays
-- **Technology:** Python, OpenCV, Ollama, Gemma
-- **Explore:** [Source](https://github.com/rahul05ranjan/object-detect-using-gemma4)
+<br>
 
-## Where I Add Value
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,docker,git,github,bash,vscode&perline=8" alt="Tech Stack Icons" />
+</div>
 
-- Turning an early product idea into a focused, usable MVP
-- Building new features for existing JavaScript, TypeScript, or PHP applications
-- Designing APIs and integrations that connect product workflows
-- Prototyping practical AI features without making the product dependent on cloud inference
-- Creating internal tools and automation for repetitive development work
+---
 
-## Core Toolkit
+## 📊 Engineering Activity & Impact
 
-- **Product interfaces:** TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend and APIs:** Node.js, Express, PHP, Laravel, REST APIs
-- **AI and automation:** Python, Ollama, local LLM integrations, OpenCV
-- **Data and delivery:** MySQL, MongoDB, Docker, Git, GitHub, Postman
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul05ranjan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul05ranjan&layout=compact&langs_count=8&theme=radical&border_radius=8" alt="Top Languages" />
+</div>
 
-## How I Work
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul05ranjan&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</div>
 
-1. **Clarify the outcome** — establish the user, the problem, and what success should look like.
-2. **Build the smallest valuable slice** — create something useful early, then improve it with evidence.
-3. **Keep the work visible** — communicate decisions, trade-offs, and progress clearly.
-4. **Leave a maintainable handoff** — favor understandable code, focused documentation, and practical next steps.
+### 🐍 Contribution Activity
 
-## Beyond the Code
+<div align="center">
+  <img src="github-contribution-snake.svg" alt="Contribution Snake" width="95%" />
+</div>
 
-I am based in Chandigarh, India. I enjoy turning rough ideas into useful products, particularly where polished web experiences meet practical AI. Away from development, I am interested in content creation, vlogging, and life in the mountains.
+---
 
-## Start a Conversation
+## 🤝 Let's Connect & Collaborate
 
-Building a web product, backend integration, developer tool, or AI prototype? Tell me what you are working on and where you need help.
+Whether you're exploring **compact AI model deployments**, building **agentic workflows that don't burn tokens**, or need a **dependable full-stack application built from zero to production**, let's talk.
 
-[**Email**](mailto:rahul05ranjan@gmail.com)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-rahul05ranjan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul05ranjan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulswt7/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Instant_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/?text=Hi%20Rahul,%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
+[![Arattai](https://img.shields.io/badge/Arattai-Direct_Chat-2A62D7?style=for-the-badge&logo=rocketchat&logoColor=white)](https://web.arattai.in/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-rahul05ranjan-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rahul05ranjan)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-@rahul05ranjan-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahul05ranjan)
+
+<p>
+  <sub>Direct Email: <a href="mailto:rahul05ranjan@gmail.com">rahul05ranjan@gmail.com</a> / <a href="mailto:rahulsingh.ranjan06@gmail.com">rahulsingh.ranjan06@gmail.com</a></sub>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul05ranjan&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rahul05ranjan?style=flat-square&color=22c55e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rahul05ranjan?style=flat-square&color=eab308" alt="Stars" />
+</div>
+
+<div align="center">
+  <sub>Designed with precision · Open-source enthusiast · Built by Rahul Kumar</sub>
+</div>
