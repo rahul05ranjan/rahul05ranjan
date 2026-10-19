@@ -154,18 +154,18 @@ I specialize in **Applied AI Engineering** and **Full-Stack Systems**. My recent
 ## 📊 Engineering Activity & Impact
 
 <div align="center">
-  <img height="185em" src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-stats.svg" alt="GitHub Stats" />
-  <img height="185em" src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-top-langs.svg" alt="Top Languages" />
+  <img height="185em" src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/output/github-stats.svg" alt="GitHub Stats" />
+  <img height="185em" src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/output/github-top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/output/github-streak.svg" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-contribution-snake.svg" alt="Contribution Snake" width="95%" />
+  <img src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/output/github-contribution-snake.svg" alt="Contribution Snake" width="95%" />
 </div>
 
 ---
