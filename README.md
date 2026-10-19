@@ -154,18 +154,18 @@ I specialize in **Applied AI Engineering** and **Full-Stack Systems**. My recent
 ## 📊 Engineering Activity & Impact
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul05ranjan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul05ranjan&layout=compact&langs_count=8&theme=radical&border_radius=8" alt="Top Languages" />
+  <img height="185em" src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-stats.svg" alt="GitHub Stats" />
+  <img height="185em" src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul05ranjan&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-streak.svg" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="github-contribution-snake.svg" alt="Contribution Snake" width="95%" />
+  <img src="https://raw.githubusercontent.com/rahul05ranjan/rahul05ranjan/main/github-contribution-snake.svg" alt="Contribution Snake" width="95%" />
 </div>
 
 ---
