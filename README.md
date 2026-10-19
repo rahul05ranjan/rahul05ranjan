@@ -21,11 +21,11 @@
   <a href="https://www.linkedin.com/in/rahulswt7/">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/?text=Hi%20Rahul,%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/917004541481?text=Hi%20Rahul,%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
+    <img src="https://img.shields.io/badge/WhatsApp-+91_7004541481-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://web.arattai.in/">
-    <img src="https://img.shields.io/badge/Arattai-Direct_Chat-2A62D7?style=for-the-badge&logo=rocketchat&logoColor=white" alt="Arattai" />
+  <a href="https://aratt.ai/message/91-7004541481">
+    <img src="https://img.shields.io/badge/Arattai-+91_7004541481-2A62D7?style=for-the-badge&logo=rocketchat&logoColor=white" alt="Arattai" />
   </a>
   <a href="https://huggingface.co/rahul05ranjan">
     <img src="https://img.shields.io/badge/Hugging_Face-3k+_Downloads-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -178,13 +178,13 @@ Whether you're exploring **compact AI model deployments**, building **agentic wo
 
 [![Email](https://img.shields.io/badge/Email-rahul05ranjan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul05ranjan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulswt7/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Instant_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/?text=Hi%20Rahul,%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
-[![Arattai](https://img.shields.io/badge/Arattai-Direct_Chat-2A62D7?style=for-the-badge&logo=rocketchat&logoColor=white)](https://web.arattai.in/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7004541481-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917004541481?text=Hi%20Rahul,%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
+[![Arattai](https://img.shields.io/badge/Arattai-+91_7004541481-2A62D7?style=for-the-badge&logo=rocketchat&logoColor=white)](https://aratt.ai/message/91-7004541481)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-rahul05ranjan-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rahul05ranjan)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-@rahul05ranjan-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahul05ranjan)
 
 <p>
-  <sub>Direct Email: <a href="mailto:rahul05ranjan@gmail.com">rahul05ranjan@gmail.com</a> / <a href="mailto:rahulsingh.ranjan06@gmail.com">rahulsingh.ranjan06@gmail.com</a></sub>
+  <sub>Direct Mobile / WhatsApp / Arattai: <a href="tel:+917004541481"><strong>+91 7004541481</strong></a> · Email: <a href="mailto:rahul05ranjan@gmail.com">rahul05ranjan@gmail.com</a></sub>
 </p>
 
 </div>
