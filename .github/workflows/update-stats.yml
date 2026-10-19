@@ -1,0 +1,38 @@
+name: Update GitHub Stats & Activity
+
+on:
+  schedule:
+    # Runs every 6 hours automatically
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    name: Refresh Stats SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download refreshed stats SVGs
+        run: |
+          # Fetch GitHub Overall Stats
+          curl -s "https://github-readme-stats.vercel.app/api?username=rahul05ranjan&show_icons=true&theme=radical&border_radius=8" -o github-stats.svg
+
+          # Fetch Top Languages Card
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=rahul05ranjan&layout=compact&langs_count=8&theme=radical&border_radius=8" -o github-top-langs.svg
+
+          # Fetch Streak Stats
+          curl -s "https://streak-stats.demolab.com?user=rahul05ranjan&theme=radical&hide_border=true&border_radius=8" -o github-streak.svg
+
+      - name: Commit and push refreshed assets
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg github-top-langs.svg github-streak.svg
+          git diff --staged --quiet || (git commit -m "chore(stats): auto-refresh activity metrics [skip ci]" && git push)
