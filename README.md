@@ -129,6 +129,17 @@ I specialize in **Applied AI Engineering** and **Full-Stack Systems**. My recent
 
 ---
 
+## 🌐 Open Source Contributions
+
+I contribute fixes, reviews, and QA upstream to the projects I build on — not just my own.
+
+- **Merged PRs — 17 across 12 public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
+- **PRs in active maintainer review:** [pytorch/pytorch](https://github.com/pytorch/pytorch/pull/200906), [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass/pull/3677), [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/pull/10606), [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki), [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast), [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo).
+- **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
+- **QA that ships:** 50+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
+
+---
+
 ## 🛠️ Technical Capabilities & Stack
 
 <div align="center">
