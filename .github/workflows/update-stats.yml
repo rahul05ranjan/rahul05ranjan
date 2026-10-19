@@ -16,8 +16,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      - name: Checkout output branch
         uses: actions/checkout@v4
+        with:
+          ref: output
 
       - name: Download refreshed stats SVGs
         run: |
@@ -30,9 +32,9 @@ jobs:
           # Fetch Streak Stats
           curl -s "https://streak-stats.demolab.com?user=rahul05ranjan&theme=radical&hide_border=true&border_radius=8" -o github-streak.svg
 
-      - name: Commit and push refreshed assets
+      - name: Commit and push refreshed assets to output branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add github-stats.svg github-top-langs.svg github-streak.svg
-          git diff --staged --quiet || (git commit -m "chore(stats): auto-refresh activity metrics [skip ci]" && git push)
+          git diff --staged --quiet || (git commit -m "chore(stats): auto-refresh activity metrics [skip ci]" && git push origin output)
