@@ -136,10 +136,10 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**130+ Open Pull Requests**](https://github.com/pullrequests?q=is%3Apr%20is%3Aopen%20author%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — fixes awaiting or in maintainer review across open-source repos
-- ✅ [**120+ Merged Pull Requests**](https://github.com/pullrequests?q=is%3Apr%20is%3Amerged%20author%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — accepted by upstream maintainers
-- 🔍 [**580+ Code Reviews**](https://github.com/pullrequests?q=is%3Apr%20reviewed%2Dby%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — verified reviews on other maintainers' pull requests
-- 🎫 [**160+ Open Issue Tickets**](https://github.com/issues?q=is%3Aissue%20is%3Aopen%20author%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — reproducible bug reports filed upstream
+- 🔀 [**130+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- ✅ [**120+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
+- 🔍 [**580+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
+- 🎫 [**160+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
 <!-- proof-links-end -->
 
 - **Merged PRs — 120+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
