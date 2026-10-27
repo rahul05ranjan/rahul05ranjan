@@ -133,10 +133,19 @@ I specialize in **Applied AI Engineering** and **Full-Stack Systems**. My recent
 
 I contribute fixes, reviews, and QA upstream to the projects I build on — not just my own.
 
-- **Merged PRs — 17 across 12 public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
+<!-- proof-links-start -->
+**Live proof — every figure links to the always-current full list:**
+
+- 🔀 [**130+ Open Pull Requests**](https://github.com/pullrequests?q=is%3Apr%20is%3Aopen%20author%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — fixes awaiting or in maintainer review across open-source repos
+- ✅ [**120+ Merged Pull Requests**](https://github.com/pullrequests?q=is%3Apr%20is%3Amerged%20author%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — accepted by upstream maintainers
+- 🔍 [**580+ Code Reviews**](https://github.com/pullrequests?q=is%3Apr%20reviewed%2Dby%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — verified reviews on other maintainers' pull requests
+- 🎫 [**160+ Open Issue Tickets**](https://github.com/issues?q=is%3Aissue%20is%3Aopen%20author%3Arahul05ranjan%20%2Duser%3Arahul05ranjan%20archived%3Afalse) — reproducible bug reports filed upstream
+<!-- proof-links-end -->
+
+- **Merged PRs — 120+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 - **PRs in active maintainer review:** [pytorch/pytorch](https://github.com/pytorch/pytorch/pull/200906), [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass/pull/3677), [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/pull/10606), [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki), [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast), [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo).
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
-- **QA that ships:** 50+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
+- **QA that ships:** 160+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
 
 ---
 
