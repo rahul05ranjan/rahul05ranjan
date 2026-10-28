@@ -139,15 +139,15 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 - 🔀 [**160+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**130+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**580+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
-- 🎫 [**180+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
+- 🎫 [**190+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
 <!-- proof-links-end -->
 
 - **Merged PRs — 130+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [prettytable/prettytable#531](https://github.com/prettytable/prettytable/pull/531) · [facelessuser/bracex#57](https://github.com/facelessuser/bracex/pull/57) · [Python-Markdown/markdown#1682](https://github.com/Python-Markdown/markdown/pull/1682) · [YO-WHATS-UP2/minigit#74](https://github.com/YO-WHATS-UP2/minigit/pull/74) · [YO-WHATS-UP2/minigit#73](https://github.com/YO-WHATS-UP2/minigit/pull/73)
+- **PRs in active maintainer review:** [facelessuser/backrefs#213](https://github.com/facelessuser/backrefs/pull/213) · [facelessuser/backrefs#211](https://github.com/facelessuser/backrefs/pull/211) · [prettytable/prettytable#531](https://github.com/prettytable/prettytable/pull/531) · [facelessuser/bracex#57](https://github.com/facelessuser/bracex/pull/57) · [Python-Markdown/markdown#1682](https://github.com/Python-Markdown/markdown/pull/1682)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
-- **QA that ships:** 180+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
+- **QA that ships:** 190+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
 
 ---
 
