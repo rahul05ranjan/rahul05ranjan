@@ -13,6 +13,11 @@
   Based in Chandigarh, India · Open-weights creator on Hugging Face · Building developer tools that respect context and privacy.
 </p>
 
+<p align="center">
+  <b>🚀 Currently open to new opportunities</b> — Full Stack (PHP, NodeJs, Python) / Data Science / Applied AI / Devtools, based in India.<br>
+  Reach me at <a href="mailto:rahul05ranjan@gmail.com">rahul05ranjan@gmail.com</a> or on <a href="https://www.linkedin.com/in/rahulswt7/">LinkedIn</a>.
+</p>
+
 <!-- Quick Contact & Social Hub -->
 <p align="center">
   <a href="mailto:rahul05ranjan@gmail.com">
