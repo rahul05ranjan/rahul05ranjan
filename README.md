@@ -141,7 +141,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**180+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- 🔀 [**190+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**170+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**680+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**190+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
@@ -149,7 +149,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 
 - **Merged PRs — 170+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [storytold/deckcraft#1684](https://github.com/storytold/deckcraft/pull/1684) · [storytold/filmcraft#3964](https://github.com/storytold/filmcraft/pull/3964) · [storytold/designcraft#2150](https://github.com/storytold/designcraft/pull/2150) · [storytold/vectorcraft#5242](https://github.com/storytold/vectorcraft/pull/5242) · [storytold/cadcraft#2638](https://github.com/storytold/cadcraft/pull/2638)
+- **PRs in active maintainer review:** [storytold/craft-launcher#1158](https://github.com/storytold/craft-launcher/pull/1158) · [storytold/effectcraft#2825](https://github.com/storytold/effectcraft/pull/2825) · [storytold/craft-launcher#1156](https://github.com/storytold/craft-launcher/pull/1156) · [storytold/soundcraft#1281](https://github.com/storytold/soundcraft/pull/1281) · [storytold/photocraft#10846](https://github.com/storytold/photocraft/pull/10846)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
 - **QA that ships:** 190+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
