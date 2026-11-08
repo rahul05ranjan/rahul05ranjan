@@ -141,7 +141,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**150+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- 🔀 [**160+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**200+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**690+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**180+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
@@ -149,7 +149,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 
 - **Merged PRs — 200+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [bennischober/ShrinkRay#593](https://github.com/bennischober/ShrinkRay/pull/593) · [laaielichter/Ai-edit-studio#67](https://github.com/laaielichter/Ai-edit-studio/pull/67) · [laaielichter/Ai-edit-studio#66](https://github.com/laaielichter/Ai-edit-studio/pull/66) · [uqfoundation/dill#833](https://github.com/uqfoundation/dill/pull/833) · [southleft/figma-console-mcp#161](https://github.com/southleft/figma-console-mcp/pull/161)
+- **PRs in active maintainer review:** [SanvioLabs/sanvio-harness-starter#429](https://github.com/SanvioLabs/sanvio-harness-starter/pull/429) · [exmergo/dex#1221](https://github.com/exmergo/dex/pull/1221) · [bennischober/ShrinkRay#594](https://github.com/bennischober/ShrinkRay/pull/594) · [bennischober/ShrinkRay#593](https://github.com/bennischober/ShrinkRay/pull/593) · [laaielichter/Ai-edit-studio#67](https://github.com/laaielichter/Ai-edit-studio/pull/67)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
 - **QA that ships:** 180+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
