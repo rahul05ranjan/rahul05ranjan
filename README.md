@@ -141,18 +141,18 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**190+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
-- ✅ [**200+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
+- 🔀 [**200+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- ✅ [**210+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**740+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
-- 🎫 [**220+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
+- 🎫 [**230+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
 <!-- proof-links-end -->
 
-- **Merged PRs — 200+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
+- **Merged PRs — 210+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [pbs/pycaption#460](https://github.com/pbs/pycaption/pull/460) · [lepture/mistune#549](https://github.com/lepture/mistune/pull/549) · [lepture/mistune#547](https://github.com/lepture/mistune/pull/547) · [frostming/marko#300](https://github.com/frostming/marko/pull/300) · [frostming/marko#298](https://github.com/frostming/marko/pull/298)
+- **PRs in active maintainer review:** [cjhutto/vaderSentiment#164](https://github.com/cjhutto/vaderSentiment/pull/164) · [ludeeus/awesomeversion#550](https://github.com/ludeeus/awesomeversion/pull/550) · [madpah/requirements-parser#113](https://github.com/madpah/requirements-parser/pull/113) · [EmilStenstrom/conllu#133](https://github.com/EmilStenstrom/conllu/pull/133) · [mido/mido#674](https://github.com/mido/mido/pull/674)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
-- **QA that ships:** 220+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
+- **QA that ships:** 230+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
 
 ---
 
