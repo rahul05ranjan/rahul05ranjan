@@ -144,15 +144,15 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 - 🔀 [**170+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**200+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**710+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
-- 🎫 [**190+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
+- 🎫 [**200+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
 <!-- proof-links-end -->
 
 - **Merged PRs — 200+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [kurtmckee/feedparser#614](https://github.com/kurtmckee/feedparser/pull/614) · [riokulabs/se2-modkit#49](https://github.com/riokulabs/se2-modkit/pull/49) · [guessit-io/guessit#980](https://github.com/guessit-io/guessit/pull/980) · [guessit-io/guessit#979](https://github.com/guessit-io/guessit/pull/979) · [kurtmckee/feedparser#613](https://github.com/kurtmckee/feedparser/pull/613)
+- **PRs in active maintainer review:** [turicas/rows#386](https://github.com/turicas/rows/pull/386) · [turicas/rows#385](https://github.com/turicas/rows/pull/385) · [jdepoix/youtube-transcript-api#626](https://github.com/jdepoix/youtube-transcript-api/pull/626) · [jdepoix/youtube-transcript-api#625](https://github.com/jdepoix/youtube-transcript-api/pull/625) · [prettytable/prettytable#544](https://github.com/prettytable/prettytable/pull/544)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
-- **QA that ships:** 190+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
+- **QA that ships:** 200+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
 
 ---
 
