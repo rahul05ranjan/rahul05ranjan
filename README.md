@@ -141,7 +141,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**240+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- 🔀 [**250+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**240+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**740+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**240+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
@@ -149,7 +149,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 
 - **Merged PRs — 240+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [malthe/chameleon#461](https://github.com/malthe/chameleon/pull/461) · [malthe/chameleon#460](https://github.com/malthe/chameleon/pull/460) · [kellyjonbrazil/jc#914](https://github.com/kellyjonbrazil/jc/pull/914) · [kellyjonbrazil/jc#913](https://github.com/kellyjonbrazil/jc/pull/913) · [lepture/mistune#559](https://github.com/lepture/mistune/pull/559)
+- **PRs in active maintainer review:** [petl-developers/petl#817](https://github.com/petl-developers/petl/pull/817) · [authlib/joserfc#120](https://github.com/authlib/joserfc/pull/120) · [r1chardj0n3s/parse#278](https://github.com/r1chardj0n3s/parse/pull/278) · [authlib/joserfc#118](https://github.com/authlib/joserfc/pull/118) · [malthe/chameleon#461](https://github.com/malthe/chameleon/pull/461)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
 - **QA that ships:** 240+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
