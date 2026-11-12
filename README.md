@@ -141,7 +141,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**230+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- 🔀 [**240+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**240+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**740+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**240+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
@@ -149,7 +149,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 
 - **Merged PRs — 240+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [Python-Markdown/markdown#1706](https://github.com/Python-Markdown/markdown/pull/1706) · [pbs/pycaption#464](https://github.com/pbs/pycaption/pull/464) · [collective/icalendar#2103](https://github.com/collective/icalendar/pull/2103) · [EmilStenstrom/conllu#140](https://github.com/EmilStenstrom/conllu/pull/140) · [mido/mido#679](https://github.com/mido/mido/pull/679)
+- **PRs in active maintainer review:** [lepture/mistune#557](https://github.com/lepture/mistune/pull/557) · [pypa/wheel#724](https://github.com/pypa/wheel/pull/724) · [eyadstein/leaklens#562](https://github.com/eyadstein/leaklens/pull/562) · [eyadstein/leaklens#561](https://github.com/eyadstein/leaklens/pull/561) · [pypa/wheel#722](https://github.com/pypa/wheel/pull/722)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
 - **QA that ships:** 240+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
