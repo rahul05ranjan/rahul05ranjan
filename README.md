@@ -142,12 +142,12 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 **Live proof — every figure links to the always-current full list:**
 
 - 🔀 [**270+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
-- ✅ [**240+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
+- ✅ [**250+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**740+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**260+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
 <!-- proof-links-end -->
 
-- **Merged PRs — 240+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
+- **Merged PRs — 250+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
 - **PRs in active maintainer review:** [asciimoo/exrex#81](https://github.com/asciimoo/exrex/pull/81) · [executablebooks/MyST-Parser#1231](https://github.com/executablebooks/MyST-Parser/pull/1231) · [executablebooks/mdit-py-plugins#176](https://github.com/executablebooks/mdit-py-plugins/pull/176) · [executablebooks/mdit-py-plugins#174](https://github.com/executablebooks/mdit-py-plugins/pull/174) · [toumorokoshi/deepmerge#54](https://github.com/toumorokoshi/deepmerge/pull/54)
 <!-- active-review-end -->
