@@ -141,7 +141,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 <!-- proof-links-start -->
 **Live proof — every figure links to the always-current full list:**
 
-- 🔀 [**260+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
+- 🔀 [**270+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
 - ✅ [**240+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**740+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**250+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
@@ -149,7 +149,7 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 
 - **Merged PRs — 240+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
-- **PRs in active maintainer review:** [wireservice/leather#130](https://github.com/wireservice/leather/pull/130) · [mosquito/aio-pika#755](https://github.com/mosquito/aio-pika/pull/755) · [pytest-dev/pyfakefs#1376](https://github.com/pytest-dev/pyfakefs/pull/1376) · [wireservice/agate#843](https://github.com/wireservice/agate/pull/843) · [dgorissen/pycel#179](https://github.com/dgorissen/pycel/pull/179)
+- **PRs in active maintainer review:** [wireservice/csvkit#1381](https://github.com/wireservice/csvkit/pull/1381) · [khuisman/mcp-gee-sweet#1459](https://github.com/khuisman/mcp-gee-sweet/pull/1459) · [khuisman/mcp-gee-sweet#1458](https://github.com/khuisman/mcp-gee-sweet/pull/1458) · [wireservice/leather#131](https://github.com/wireservice/leather/pull/131) · [dpranke/pyfloyd#2](https://github.com/dpranke/pyfloyd/pull/2)
 <!-- active-review-end -->
 - **Code review at depth:** 100+ verified code reviews on open-source pull requests. Recent catches: a 366-day duplicate-month calendar bug, a regex regression that silently broke no-space time formats, and a hot-path O(n) rewrite flagged before merge.
 - **QA that ships:** 250+ reproducible bug reports filed; fixes already merged by maintainers in [caronc/apprise](https://github.com/caronc/apprise), [shaongitbd/doory](https://github.com/shaongitbd/doory), [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) and others.
