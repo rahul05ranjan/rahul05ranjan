@@ -142,12 +142,12 @@ I contribute fixes, reviews, and QA upstream to the projects I build on — not 
 **Live proof — every figure links to the always-current full list:**
 
 - 🔀 [**240+ Open Pull Requests**](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — fixes awaiting or in maintainer review across open-source repos
-- ✅ [**270+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
+- ✅ [**280+ Merged Pull Requests**](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — accepted by upstream maintainers
 - 🔍 [**740+ Code Reviews**](https://github.com/search?q=is%3Apr+reviewed-by%3Arahul05ranjan+-user%3Arahul05ranjan+archived%3Afalse&type=pullrequests) — verified reviews on other maintainers' pull requests
 - 🎫 [**270+ Open Issue Tickets**](https://github.com/search?q=is%3Aissue+is%3Aopen+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=issues) — reproducible bug reports filed upstream
 <!-- proof-links-end -->
 
-- **Merged PRs — 270+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
+- **Merged PRs — 280+ across 30+ public repos**, including [openai/openai-cookbook](https://github.com/openai/openai-cookbook), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate), [spatie/twitter-labs](https://github.com/spatie/twitter-labs), [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp), and [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) (3).
 <!-- active-review-start -->
 - **PRs in active maintainer review:** [khuisman/mcp-gee-sweet#1496](https://github.com/khuisman/mcp-gee-sweet/pull/1496) · [khuisman/mcp-gee-sweet#1471](https://github.com/khuisman/mcp-gee-sweet/pull/1471) · [khuisman/mcp-gee-sweet#1470](https://github.com/khuisman/mcp-gee-sweet/pull/1470) · [asciimoo/exrex#81](https://github.com/asciimoo/exrex/pull/81) · [executablebooks/MyST-Parser#1231](https://github.com/executablebooks/MyST-Parser/pull/1231)
 <!-- active-review-end -->
