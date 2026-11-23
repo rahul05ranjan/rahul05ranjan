@@ -134,6 +134,76 @@ I specialize in **Applied AI Engineering** and **Full-Stack Systems**. My recent
 
 ---
 
+## 🏆 Merged Into Flagship Open-Source Projects (5K+ ⭐)
+
+<div align="center">
+
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan+stars%3A%3E5000&type=pullrequests"><img src="https://img.shields.io/badge/Flagship_Repositories-41-9B59B6?style=for-the-badge" alt="Flagship Repositories"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs_Within-75-2EA44F?style=for-the-badge" alt="Merged PRs"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Arahul05ranjan+-user%3Arahul05ranjan&type=pullrequests"><img src="https://img.shields.io/badge/Combined_Stars-1M%2B-F5C518?style=for-the-badge" alt="Combined Stars"></a>
+
+**Every pull request below was opened, reviewed, and merged by the project maintainers — verified contributions in repositories with 5,000+ GitHub stars.**
+
+</div>
+
+### 🥇 The 50K+ ⭐ League
+
+| Project | ⭐ | Merged PRs |
+|:---|:---:|:---|
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social) | [#4457](https://github.com/thedotmack/claude-mem/pull/4457) |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![Stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social) | [#779](https://github.com/Panniantong/Agent-Reach/pull/779) |
+| [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | ![Stars](https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=social) | [#675](https://github.com/Ebony-Vinyl/dsh-our-free-model/pull/675) |
+| [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | ![Stars](https://img.shields.io/github/stars/OpenMontageInc/OpenMontage?style=social) | [#713](https://github.com/OpenMontageInc/OpenMontage/pull/713) |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | ![Stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social) | [#3133](https://github.com/openai/openai-cookbook/pull/3133) |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=social) | [#413](https://github.com/cathrynlavery/diagram-design/pull/413) |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=social) | [#928](https://github.com/coreyhaines31/marketingskills/pull/928) · [#927](https://github.com/coreyhaines31/marketingskills/pull/927) |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | ![Stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | [#2351](https://github.com/HKUDS/DeepTutor/pull/2351) |
+
+### 🚀 10K–50K ⭐
+
+| Project | ⭐ | Merged PRs |
+|:---|:---:|:---|
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ![Stars](https://img.shields.io/github/stars/NandhaKishorM/laya?style=social) | [#1446](https://github.com/NandhaKishorM/laya/pull/1446) · [#1445](https://github.com/NandhaKishorM/laya/pull/1445) · [#1394](https://github.com/NandhaKishorM/laya/pull/1394) · [#1392](https://github.com/NandhaKishorM/laya/pull/1392) · [#682](https://github.com/NandhaKishorM/laya/pull/682) · [#609](https://github.com/NandhaKishorM/laya/pull/609) · [#480](https://github.com/NandhaKishorM/laya/pull/480) |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ![Stars](https://img.shields.io/github/stars/guillaumemeyer/watermarks-remover?style=social) | [#402](https://github.com/guillaumemeyer/watermarks-remover/pull/402) · [#401](https://github.com/guillaumemeyer/watermarks-remover/pull/401) · [#400](https://github.com/guillaumemeyer/watermarks-remover/pull/400) |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | ![Stars](https://img.shields.io/github/stars/storytold/pdfcraft?style=social) | [#5736](https://github.com/storytold/pdfcraft/pull/5736) · [#3621](https://github.com/storytold/pdfcraft/pull/3621) |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | ![Stars](https://img.shields.io/github/stars/storytold/filmcraft?style=social) | [#3964](https://github.com/storytold/filmcraft/pull/3964) · [#3960](https://github.com/storytold/filmcraft/pull/3960) · [#3483](https://github.com/storytold/filmcraft/pull/3483) · [#3435](https://github.com/storytold/filmcraft/pull/3435) · [#2568](https://github.com/storytold/filmcraft/pull/2568) |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | ![Stars](https://img.shields.io/github/stars/storytold/wordcraft?style=social) | [#5291](https://github.com/storytold/wordcraft/pull/5291) |
+| [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | ![Stars](https://img.shields.io/github/stars/langchain-ai/openwiki?style=social) | [#1052](https://github.com/langchain-ai/openwiki/pull/1052) |
+| [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | ![Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social) | [#1016](https://github.com/LibreTranslate/LibreTranslate/pull/1016) |
+| [storytold/lightcraft](https://github.com/storytold/lightcraft) | ![Stars](https://img.shields.io/github/stars/storytold/lightcraft?style=social) | [#3604](https://github.com/storytold/lightcraft/pull/3604) |
+| [josdejong/mathjs](https://github.com/josdejong/mathjs) | ![Stars](https://img.shields.io/github/stars/josdejong/mathjs?style=social) | [#3781](https://github.com/josdejong/mathjs/pull/3781) |
+| [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) | ![Stars](https://img.shields.io/github/stars/Gallopsled/pwntools?style=social) | [#2795](https://github.com/Gallopsled/pwntools/pull/2795) |
+| [seerr-team/seerr](https://github.com/seerr-team/seerr) | ![Stars](https://img.shields.io/github/stars/seerr-team/seerr?style=social) | [#3564](https://github.com/seerr-team/seerr/pull/3564) |
+| [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | ![Stars](https://img.shields.io/github/stars/dsh-market/dsh-market?style=social) | [#1080](https://github.com/dsh-market/dsh-market/pull/1080) · [#1079](https://github.com/dsh-market/dsh-market/pull/1079) · [#1045](https://github.com/dsh-market/dsh-market/pull/1045) · [#1032](https://github.com/dsh-market/dsh-market/pull/1032) |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | ![Stars](https://img.shields.io/github/stars/CopilotKit/OpenBot?style=social) | [#848](https://github.com/CopilotKit/OpenBot/pull/848) |
+| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | ![Stars](https://img.shields.io/github/stars/storytold/vectorcraft?style=social) | [#5242](https://github.com/storytold/vectorcraft/pull/5242) · [#5240](https://github.com/storytold/vectorcraft/pull/5240) · [#4310](https://github.com/storytold/vectorcraft/pull/4310) · [#4308](https://github.com/storytold/vectorcraft/pull/4308) · [#3203](https://github.com/storytold/vectorcraft/pull/3203) |
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | ![Stars](https://img.shields.io/github/stars/KKKKhazix/AIHOT?style=social) | [#275](https://github.com/KKKKhazix/AIHOT/pull/275) · [#274](https://github.com/KKKKhazix/AIHOT/pull/274) |
+| [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | ![Stars](https://img.shields.io/github/stars/mobile-next/mobile-mcp?style=social) | [#451](https://github.com/mobile-next/mobile-mcp/pull/451) |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | ![Stars](https://img.shields.io/github/stars/lnkiai/m3e-canvas?style=social) | [#481](https://github.com/lnkiai/m3e-canvas/pull/481) · [#479](https://github.com/lnkiai/m3e-canvas/pull/479) |
+| [crmne/spotifast](https://github.com/crmne/spotifast) | ![Stars](https://img.shields.io/github/stars/crmne/spotifast?style=social) | [#1095](https://github.com/crmne/spotifast/pull/1095) |
+| [py-pdf/pypdf](https://github.com/py-pdf/pypdf) | ![Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social) | [#4389](https://github.com/py-pdf/pypdf/pull/4389) · [#4388](https://github.com/py-pdf/pypdf/pull/4388) · [#4286](https://github.com/py-pdf/pypdf/pull/4286) · [#4284](https://github.com/py-pdf/pypdf/pull/4284) |
+
+### 💎 5K–10K ⭐
+
+| Project | ⭐ | Merged PRs |
+|:---|:---:|:---|
+| [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | ![Stars](https://img.shields.io/github/stars/miqdadbadjuber/anti-slop?style=social) | [#50](https://github.com/miqdadbadjuber/anti-slop/pull/50) |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | ![Stars](https://img.shields.io/github/stars/rehan-remade/universal-modder?style=social) | [#442](https://github.com/rehan-remade/universal-modder/pull/442) |
+| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | ![Stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social) | [#8827](https://github.com/tobymao/sqlglot/pull/8827) |
+| [storytold/effectcraft](https://github.com/storytold/effectcraft) | ![Stars](https://img.shields.io/github/stars/storytold/effectcraft?style=social) | [#2825](https://github.com/storytold/effectcraft/pull/2825) · [#2819](https://github.com/storytold/effectcraft/pull/2819) |
+| [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) | ![Stars](https://img.shields.io/github/stars/kellyjonbrazil/jc?style=social) | [#914](https://github.com/kellyjonbrazil/jc/pull/914) |
+| [storytold/cadcraft](https://github.com/storytold/cadcraft) | ![Stars](https://img.shields.io/github/stars/storytold/cadcraft?style=social) | [#2638](https://github.com/storytold/cadcraft/pull/2638) · [#2636](https://github.com/storytold/cadcraft/pull/2636) |
+| [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | ![Stars](https://img.shields.io/github/stars/microsoft/TokenEconomizer?style=social) | [#183](https://github.com/microsoft/TokenEconomizer/pull/183) · [#181](https://github.com/microsoft/TokenEconomizer/pull/181) |
+| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | ![Stars](https://img.shields.io/github/stars/Louis-CFM/coucou?style=social) | [#947](https://github.com/Louis-CFM/coucou/pull/947) · [#944](https://github.com/Louis-CFM/coucou/pull/944) |
+| [jarun/buku](https://github.com/jarun/buku) | ![Stars](https://img.shields.io/github/stars/jarun/buku?style=social) | [#923](https://github.com/jarun/buku/pull/923) · [#922](https://github.com/jarun/buku/pull/922) |
+| [PyCQA/isort](https://github.com/PyCQA/isort) | ![Stars](https://img.shields.io/github/stars/PyCQA/isort?style=social) | [#2764](https://github.com/PyCQA/isort/pull/2764) |
+| [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) | ![Stars](https://img.shields.io/github/stars/bethington/ghidra-mcp?style=social) | [#647](https://github.com/bethington/ghidra-mcp/pull/647) · [#646](https://github.com/bethington/ghidra-mcp/pull/646) |
+| [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | ![Stars](https://img.shields.io/github/stars/mayswind/ezbookkeeping?style=social) | [#747](https://github.com/mayswind/ezbookkeeping/pull/747) · [#746](https://github.com/mayswind/ezbookkeeping/pull/746) |
+| [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) | ![Stars](https://img.shields.io/github/stars/codeigniter4/CodeIgniter4?style=social) | [#10606](https://github.com/codeigniter4/CodeIgniter4/pull/10606) |
+| [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | ![Stars](https://img.shields.io/github/stars/tigerless-labs/cost-xray?style=social) | [#64](https://github.com/tigerless-labs/cost-xray/pull/64) · [#63](https://github.com/tigerless-labs/cost-xray/pull/63) |
+
+---
+
 ## 🌐 Open Source Contributions
 
 I contribute fixes, reviews, and QA upstream to the projects I build on — not just my own.
